@@ -11,7 +11,7 @@
   + 상품 수정
   
 ## 서비스 제공 흐름
-
+<img src = "https://user-images.githubusercontent.com/105557972/230908622-14f2773f-8aa8-444a-aad6-a654cb3b04bf.png"></img>
 
 ## 서비스 화면
 <img src = "https://user-images.githubusercontent.com/105557972/230907790-55290e6e-910f-4804-a67f-084c497d067b.png"></img>
