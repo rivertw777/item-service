@@ -10,6 +10,9 @@
   + 상품 등록
   + 상품 수정
   
+## 서비스 제공 흐름
+
+
 ## 서비스 화면
 <img src = "https://user-images.githubusercontent.com/105557972/230907790-55290e6e-910f-4804-a67f-084c497d067b.png"></img>
 <img src = "https://user-images.githubusercontent.com/105557972/230907800-80832560-5cb9-403d-8fbb-e8587c79ecd0.png"></img>
